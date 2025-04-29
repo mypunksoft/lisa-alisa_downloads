@@ -1,4 +1,3 @@
-```markdown
 # Downloader for lisa-alisa.club
 
 Этот проект предназначен для скачивания аудикниг с сайта [lisa-alisa.club](https://lisa-alisa.club), предоставляющего доступ к файлам аудикниг.
